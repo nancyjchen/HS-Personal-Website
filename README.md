@@ -3,7 +3,7 @@
 Purpose: Introduce myself, and showcase my current knowledge and skills
 Challeneges: Working with the Bootstrap CSS Framework for the first time
 
-**Website Link**: https://nancyjchen.github.io/Personal-Website-V1/ 
+**Website Link**: https://nancyjchen.github.io/HS-Personal-Website/ 
 
 **Date Created**: August 17, 2023
 
