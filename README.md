@@ -1,4 +1,4 @@
-# Personal-Website-V1
+# High School Personal Website
 
 Purpose: Introduce myself, and showcase my current knowledge and skills
 Challeneges: Working with the Bootstrap CSS Framework for the first time
